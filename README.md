@@ -328,13 +328,10 @@ Technical-Skills/
 # 📖 Each Folder Contains
 
 * Notes
-* Code Examples
 * Assignments
 * Practice Problems
 * Labs
 * Simulations
-* Mini Projects
-* Resources
 
 ---
 
@@ -344,36 +341,11 @@ For every topic, I aim to complete:
 
 * Theory Notes
 * Practice Problems
-* Coding Exercises
+* Exercises
 * Hands-on Labs
 * Simulations
 * Mini Projects
 * Documentation
-
----
-
-# 🎯 Current Focus
-
-* Strengthening C/C++
-* Embedded Systems
-* Firmware Development
-* Data Structures & Algorithms
-* Digital Electronics
-* Communication Systems
-
----
-
-# 📌 Progress
-
-* [ ] Programming
-* [ ] Data Structures & Algorithms
-* [ ] Computer Science Fundamentals
-* [ ] Electronics Fundamentals
-* [ ] Embedded Systems
-* [ ] Communication Systems
-* [ ] IoT
-* [ ] AI & ML
-* [ ] Projects
 
 ---
 
